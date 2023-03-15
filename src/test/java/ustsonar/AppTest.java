@@ -1,4 +1,4 @@
-package UstBatch.sonarqubetest;
+package ustsonar;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
